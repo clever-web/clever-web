@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clever-web=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Full Stack Web and Blockchain Developer 
 
@@ -32,9 +32,9 @@ Very Punctual.
 Your Satisfaction as a client will be my number one priority.
 Thank you for your time!
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=clever-web&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clever-web)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <table align="center">
