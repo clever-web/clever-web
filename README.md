@@ -21,7 +21,7 @@ I provide development services using:
 -Frameworks
     Laravel, Codeigniter, React, Redux, Next, Vue, Nuxt, Angular, Node, Express, Flask, Django, etc
 -Mobile App Development
-    Android, Java, Kotlin, React Native, Mobile App Design, etc
+    Android, React Native, Flutter, etc
 
 It would be best if you worked with me because:
 Flexible communication skills are essential to any job requirement.
